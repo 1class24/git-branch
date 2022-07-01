@@ -1,4 +1,4 @@
-This is my new added text tot the file.
+I am deleting this file
 Socrates
 Joan of Arc
 Abraham Lincoln
