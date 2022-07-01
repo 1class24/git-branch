@@ -1,4 +1,4 @@
-This is my new added text tot the file.
+This is for practice only.
 Socrates
 Joan of Arc
 Abraham Lincoln
